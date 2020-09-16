@@ -2,7 +2,7 @@
 
 * [ВКР: Исследование операций переключения между классами эквивалентности матриц Адамара](https://github.com/tutkarma/hadamard-matrix)
 
-* [Разработка системы генерация синтетических данных (изображений шахматной доски) для обучения нейронных сетей](https://github.com/tutkarma/ChessDatasetGenerator)
+* [Cистема генерации синтетических данных (изображений шахматной доски) для обучения нейронных сетей](https://github.com/tutkarma/ChessDatasetGenerator)
     Стек -- Unity, C#.
 
 * [Android-приложение, подбирающее релевантные картинки к статье](https://github.com/tutkarma/AutoPicturer)
@@ -10,3 +10,7 @@
 
 * [Текстовый поиск](https://github.com/tutkarma/mai_study/tree/master/DA/cp)
     Построила инвертированный индекс по дампу Википедии и реализовала обработку булевых запросов. Стек: C++.
+
+
+* [API к KV-хранилищу](https://github.com/tutkarma/kv-storage)
+    Реализовала сервис, позваоляющий выполнять CRUD-операции к БД Tarantool. Стек: Tarantool, Lua.
